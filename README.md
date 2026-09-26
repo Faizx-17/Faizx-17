@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Syed Faizan 👋
 
-<!--
-**Faizx-17/Faizx-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student
+💻 Software Development & AI/ML Enthusiast
+🚀 Building projects, strengthening problem-solving skills, and exploring modern technologies
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Software Development
+* Artificial Intelligence & Machine Learning
+* Problem Solving & Data Structures
+* Web Development
+* Developer Tools & Version Control
+
+## What I'm Building
+
+I'm working toward becoming a versatile software engineer by combining strong programming fundamentals with practical development and AI/ML projects.
+
+## Tech Stack
+
+**Currently working with:**
+Python • Git • GitHub • HTML • CSS • JavaScript
+
+**Exploring:**
+AI/ML • Data Structures & Algorithms • Backend Development
+
+## Projects
+
+🚧 Building and adding projects as I progress.
+
+## Let's Connect
+
+I'm always interested in learning, building, and connecting with other developers.
